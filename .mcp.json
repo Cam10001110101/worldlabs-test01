@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "worldlabs-docs": {
+      "type": "http",
+      "url": "https://docs.worldlabs.ai/mcp"
+    }
+  }
+}
